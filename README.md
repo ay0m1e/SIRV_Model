@@ -31,6 +31,6 @@ df = pd.read_csv('population.csv')
 
 ```
 
-![Adequate vaccination rate](Recording2025-10-16141349-ezgif.com-optimize.gif)
+![Adequate vaccination rate](./SIRVmodel/SIRV model/)
 
-![In-adequate vaccination rate](ezgif.com-optimize.gif)
+![In-adequate vaccination rate](./SIRVmodel/ezgif.com-optimize.gif)
