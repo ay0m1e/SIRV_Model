@@ -29,6 +29,6 @@ This project simulates the spread of a contagious disease using a **Susceptible-
 import pandas as pd
 df = pd.read_csv('population.csv')
 
-![Adequate vaccination rate](Recording2025-10-16141349-ezgif.com-optimize.gif)
+![Adequate vaccination rate](/SIRV_Model/SIRV%20model/Recording2025-10-16141349-ezgif.com-optimize.gif)
 
-![In-adequate vaccination rate](ezgif.com-optimize.gif)
+![In-adequate vaccination rate](/SIRV_Model/SIRV%20model/ezgif.com-optimize.gif)
